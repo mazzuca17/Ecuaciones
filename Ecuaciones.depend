@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1594437592 source:c:\users\mati12\desktop\ecuaciones\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+	"menuCuadratica.h"
+	"datosCuadratica.h"
+	"date.h"
+
+1594361598 c:\users\mati12\desktop\ecuaciones\menuprincipal.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1594279042 c:\users\mati12\desktop\ecuaciones\date.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1594437694 c:\users\mati12\desktop\ecuaciones\menucuadratica.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
+1594419947 c:\users\mati12\desktop\ecuaciones\datoscuadratica.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
